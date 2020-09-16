@@ -1,37 +1,3 @@
 <div class="container-fluid">
-  <div class="row">
-    <div class="col-md-12 font-weight-bold border-bt">GOLD - RM 100.00</div>
-    <div class="col-md-12 text-center padding">
-      <ul class="list-group list-group-horizontal">
-        <li class="list-group-item" *ngFor="let slot of goldData[0]?.slots; let i = index"
-          [ngClass]="{'wheelchairicon' : slot.is_wheelchair == 'true' , 'empty': slot.empty == true}">
-          {{slot.is_wheelchair == 'true' ? '' : slot.name}}
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-12 font-weight-bold border-bt">Silver - RM 60.00</div>
-    <div class="col-md-12 text-center padding">
-      <ul class="list-group list-group-horizontal">
-        <li class="list-group-item" *ngFor="let slot of silverData[0]?.slots"
-        [ngClass]="{'wheelchairicon' : slot.is_wheelchair == 'true' , 'empty': slot.empty == true}">
-          {{slot.is_wheelchair == 'true' ? ' ' : slot.name}}
-        </li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-md-12 font-weight-bold border-bt">Bronze - RM 40.00</div>
-    <div class="col-md-12 text-center padding">
-      <ul class="list-group list-group-horizontal">
-        <li class="list-group-item" *ngFor="let slot of bronzeData[0]?.slots"
-        [ngClass]="{'wheelchairicon' : slot.is_wheelchair == 'true' , 'empty': slot.empty == true}">
-          {{slot.is_wheelchair == 'true' ? '' : slot.name}}
-        </li>
-      </ul>
-    </div>
-  </div>
+  <router-outlet></router-outlet>
 </div>

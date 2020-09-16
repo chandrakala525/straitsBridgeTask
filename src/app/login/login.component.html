@@ -1,0 +1,21 @@
+<form>
+    <div class="row">
+        <div class="col-md-12">
+            <table class="mx-auto">
+                <tr>
+                    <td><label>User Name</label></td>
+                    <td><input type="email" placeholder="Enter Email" name="email" [(ngModel)]="user.email" /></td>
+                </tr>
+                <tr>
+                    <td><label>Password</label></td>
+                    <td><input type="password" placeholder="Enter Password" name="password" [(ngModel)]="user.password" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2" class="text-center">
+                        <button class="btn btn-primary" (click)="onUserLogin()">Login</button>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</form>

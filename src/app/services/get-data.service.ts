@@ -8,7 +8,16 @@ export class GetDataService {
 
   constructor(private http: HttpClient) { }
 
-  getData(){
+  
+  getToken(userDetails){
+    return this.http.post("https://reqres.in/api/login", userDetails);
+  }
+
+  getSittingLayoutData(){
     return this.http.get("./assets/part3_data.json");
+  }
+
+  getLineChartData(){
+    return this.http.get("./assets/part2_data.json");
   }
 }

@@ -1,0 +1,292 @@
+{
+    "GraphData": [
+        {
+            "KpiName": "GCL",
+            "Month": "Month3",
+            "Sc_WOffDate": "Apr-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 1.127
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month4",
+            "Sc_WOffDate": "May-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 1.519
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month5",
+            "Sc_WOffDate": "Jun-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 2.218
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month6",
+            "Sc_WOffDate": "Jul-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 2.638
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month7",
+            "Sc_WOffDate": "Aug-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 3.794
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month8",
+            "Sc_WOffDate": "Sep-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 5.023
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month9",
+            "Sc_WOffDate": "Oct-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 6.195
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month10",
+            "Sc_WOffDate": "Dec-2016",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 6.439
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month11",
+            "Sc_WOffDate": "Aug-2019",
+            "Sc_OpenDate": "01-2016",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 6.678
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month3",
+            "Sc_WOffDate": "Jan-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 0.793
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month4",
+            "Sc_WOffDate": "Mar-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 1.091
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month5",
+            "Sc_WOffDate": "May-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 3.213
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month6",
+            "Sc_WOffDate": "Jun-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 4.189
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month7",
+            "Sc_WOffDate": "Jul-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 5.894
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month8",
+            "Sc_WOffDate": "Aug-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 7.286
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month9",
+            "Sc_WOffDate": "Sep-2017",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 8.127
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month10",
+            "Sc_WOffDate": "Apr-2018",
+            "Sc_OpenDate": "01-2017",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 8.781
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month3",
+            "Sc_WOffDate": "Jan-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 3.37
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month4",
+            "Sc_WOffDate": "Feb-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 4.152
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month5",
+            "Sc_WOffDate": "Apr-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 5.461
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month6",
+            "Sc_WOffDate": "May-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 8.195
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month7",
+            "Sc_WOffDate": "Jun-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 9.637
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month8",
+            "Sc_WOffDate": "Aug-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 11.332
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month9",
+            "Sc_WOffDate": "Dec-2018",
+            "Sc_OpenDate": "01-2018",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 12.421
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month3",
+            "Sc_WOffDate": "Jan-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 2.573
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month4",
+            "Sc_WOffDate": "Feb-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 3.139
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month5",
+            "Sc_WOffDate": "Mar-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 4.018
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month6",
+            "Sc_WOffDate": "May-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 5.038
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month7",
+            "Sc_WOffDate": "Jun-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 6.086
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month8",
+            "Sc_WOffDate": "Aug-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 7.623
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month9",
+            "Sc_WOffDate": "Sep-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 8.996
+        },
+        {
+            "KpiName": "GCL",
+            "Month": "Month10",
+            "Sc_WOffDate": "Nov-2019",
+            "Sc_OpenDate": "01-2019",
+            "OPSLink": "FBTHLASWB",
+            "KpiLevel": "TIME",
+            "Y-Axis": 10.115
+        }
+    ]
+}
