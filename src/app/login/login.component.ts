@@ -20,10 +20,8 @@ export class LoginComponent implements OnInit {
   }
 
   onUserLogin(){
-    console.log(this.user);
     this._getDataService.getToken(this.user).subscribe(res => {
       if(res){
-        console.log(res);
         localStorage.setItem('token', res['token']);
         this.router.navigateByUrl('/dashboard');
       }

@@ -30,30 +30,7 @@ export class MultiLineGraphComponent implements OnInit {
 
 
   this._getDataService.getLineChartData().subscribe(res => {
-    console.log(res);
     var data = res['GraphData'];
-    // var data =  _.groupBy(res['GraphData'], 'Sc_OpenDate');
-    // let objList = []
-    // for (const key in data) {
-    //   objList = [...objList, ...data[key]]
-    // }
-    // console.log(objList)
-// const list  = ['01-2017', '01-2018', '01-2019', '01-2020']
-    // res['GraphData'].forEach(obj => {
-
-    // })
-
-    // var data = res['GraphData'].map(d => {
-    //   return {
-    //     'Month': d.Month,
-    //     'Y-Axis': d['Y-Axis'],
-    //     'Sc_OpenDate16':res['GraphData'].filter()
-    //     // 'Sc_OpenDate17':d['Y-Axis']
-    //     // 'Sc_OpenDate18':d['Y-Axis']
-    //     // 'Sc_OpenDate19':d['Y-Axis']
-    //   }
-    // });
-    console.log(data);
 
     var x = d3.scaleBand()
     .range([0, width])
@@ -79,7 +56,6 @@ export class MultiLineGraphComponent implements OnInit {
     .call(yAxis);
 
     var valueline = d3.line<any>()
-      // .curve(d3.curveCardinal)
       .x((d) => x(d['Month']))
       .y((d) => y(d['Y-Axis']));
 
